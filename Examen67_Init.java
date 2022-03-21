@@ -6,7 +6,7 @@ public class Examen67_Init {
 		Almacen almacenMiguel;
 		almacenMiguel = new Almacen();
 		
-		almacenMiguel.agregarProducto();
+		almacenMiguel.agregarProducto(
 		almacenMiguel.mostrarInfo();
 	}
 	
