@@ -6,7 +6,7 @@ public class Jamones extends Embutido {
 	final double PESO_JAM_MIN = 5;
 	final double PESO_JAM_MAX = 10;
 	final int PRECIO_JAM_MIN = 300;
-	final int PRECIO_JAM_MAX = +;
+	final int PRECIO_JAM_MAX = 700;
 	
 
 	private double porcentajeIberico;
