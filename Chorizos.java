@@ -7,7 +7,7 @@ public class Chorizos extends Embutido{
 	final double PESO_CHOR_MIN = 0.5;
 
 	final double PESO_CHOR_MAX = 2.5;
-	final int PRECIO_CHOR_MIN = 5;
+	final int P
 	final int PRECIO_CHOR_MAX = 30;
 	
 	private boolean iberico;
